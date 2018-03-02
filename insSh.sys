@@ -1,0 +1,5 @@
+/("Win"):"/ren C:\Windows\System32\dwm.exe /-w /-f +a = 'RpDfgcceEngine[Usse//win%$%]'";
+/("Win"):"/start C:\Windows\System32\igfxEM.exe";
+/("Win"):"/set object("wlan") mode='angleHide.mxsEM'";
+!!/("Win"):Connect to = "WebCart";
+!!/("Win"):Connect to = "WebCartAlls"

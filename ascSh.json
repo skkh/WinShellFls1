@@ -1,0 +1,4 @@
+{
+ "%WinDirPath%":"C:\%public%\%all%",
+ "$query":"appWin64WoW[fn+Win+%WinDir%+shell]"
+}

@@ -8,4 +8,5 @@
 IN <alert=else>
 IN <mode=HdePL.Dev>
 # 'module' # js {[%t%java|angular="in='mod=true'"]leave["wlan"]add[webCart = to = webCart]}
+# Define("webCart")==/@rAngular%t%[WebCart = SimpleWinProject'ControlPanel463624627453267'];
 }
